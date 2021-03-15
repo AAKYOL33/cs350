@@ -1,4 +1,9 @@
-  // For GNU v3.0 or higher
+   
+//What2Eat Today
+//  Copyright (C) 2021, written by Alperen AKYOL,alperen.akyol@ozu.edu.tr, 2021.
+
+
+    // For GNU v3.0 or higher
    // This program is free software: you can redistribute it and/or modify
    // it under the terms of the GNU General Public License as published by
    // the Free Software Foundation, either version 3 of the License, or
